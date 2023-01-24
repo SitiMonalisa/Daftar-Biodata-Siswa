@@ -6,3 +6,4 @@ Daftar beasiswa Dicoding Academy
 - Angkatan 2019
 - Angkatan 2020
 - Angkatan 2021
+- angkatan dummy
